@@ -1,0 +1,6 @@
+@Utbildningsföretag.Presentation_HostAddress = http://localhost:5130
+
+GET {{Utbildningsföretag.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
